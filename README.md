@@ -57,3 +57,7 @@ data = {
 }
 ```
 <img src="Screenshots/Example - Expanded.png" width="50%"> 
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JusOConnor) \
+[If you like my work or if you found this at all helpful please feel free to contribute.](buymeacoffee.com/JusOConnor) \
+buymeacoffee.com/JusOConnor
