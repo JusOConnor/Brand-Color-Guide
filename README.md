@@ -1,9 +1,9 @@
 ## Brand GUI Color Guide
 This is for the person who has to constantly update the color scheme from the defaults every time they start a new project.  With this you can set your colors once and have them ready for you in an easy to understand GUI.  When you're ready to use them, click the color matched button and paste the value into whatever program you're working with.  The button automatically adds the Hex value to your clipboard.
 
-<!-- ![Executive_Summary](Screenshots/Interface.png) -->
-<img src="Screenshots/Interface.png"> 
-
+<!-- ![Executive_Summary](Screenshots/MacOS%20-%20Interface.png) -->
+<img src="Screenshots/MacOS - Interface.png" width="60%"> 
+<img src="Screenshots/Windows - Interface.png" width="60%"> 
 
 ```
 # Sample data structure for the GUI
@@ -36,10 +36,12 @@ data = {
     # }
 }
 ```
-<img src="Screenshots/Example - Reduced.png" width="50%"> \
+<img src="Screenshots/MacOS - Reduced.png" width="50%">
+<img src="Screenshots/Windows - Reduced.png" width="50%"> 
 <br>
-If you need additional colors just add them to the list.  You can create an entire new section or just add to the ones you already have. \
-*Example:*
+If you need additional colors just add them to the list.  You can create an entire new section or just add to the ones you already have. <br>
+*Example:* 
+
 ```
 # Sample data structure for the GUI
 data = {
@@ -55,8 +57,10 @@ data = {
         'Yes please!' : ['#FF6A00', '#59C43E', '#A81B40', '#430491', '#000000', '#FFFFFF', '#304DCC', '#EBDB50']
     },
 }
-```
-<img src="Screenshots/Example - Expanded.png" width="50%"> 
+``` 
+<br>
+<img src="Screenshots/MacOS - Extended.png" width="50%"> 
+<img src="Screenshots/Windows - Extended.png" width="50%"> 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JusOConnor) \
 [If you like my work or if you found this at all helpful please feel free to contribute.](buymeacoffee.com/JusOConnor) \

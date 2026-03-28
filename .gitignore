@@ -12,9 +12,11 @@ Thumbs.db
 .venv
 uv.lock
 pyproject.toml
-.python-version
 
 # Editor
 .vscode/
 .idea/
 Dev.ipynb
+
+# Archive
+Archive/
