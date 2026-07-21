@@ -5,7 +5,7 @@ This is for the person who has to constantly update the color scheme from the de
 <img src="Screenshots/MacOS - Interface.png" width="60%"> 
 <img src="Screenshots/Windows - Interface.png" width="60%"> 
 
-```
+```python
 # Sample data structure for the GUI
 data = {
     'Color Palette': {
@@ -23,7 +23,7 @@ data = {
 **Customization**: \
 The GUI is designed to adapt to your list.  If you need less colors simply delete the extras or comment the entire line out. \
 *Example:*
-```
+```python
 # Sample data structure for the GUI
 data = {
     'Color Palette': {
@@ -42,7 +42,7 @@ data = {
 If you need additional colors just add them to the list.  You can create an entire new section or just add to the ones you already have. <br>
 *Example:* 
 
-```
+```python
 # Sample data structure for the GUI
 data = {
     'Color Palette': {
